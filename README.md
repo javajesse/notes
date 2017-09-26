@@ -7,6 +7,8 @@ https://meyerweb.com/eric/tools/dencoder/
 
 https://www.websequencediagrams.com
 
+http://www.convertforfree.com/query-string-splitter/
+
 
 ## Test data
 
