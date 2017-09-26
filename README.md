@@ -2,7 +2,7 @@
 
 https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide
 
-[a relative link](QuickUtilities.md)
+[Small Utils](SmallUtils.md)
 
 ## Quick Utils
 
